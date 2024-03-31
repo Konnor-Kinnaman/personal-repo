@@ -1,0 +1,13 @@
+Beginner friendly Exercises
+* Exercism (https://exercism.org/tracks/python/exercises)
+* Hackinscience (https://www.hackinscience.org/exercises/)
+* Practicepython (https://www.practicepython.org/)
+
+Intermediate to Advanced
+* Adventofcode (https://adventofcode.com/)
+* Codewars (https://www.codewars.com/)
+* Codecombat (https://www.pythonmorsels.com/)
+
+Project Resources
+* (https://github.com/karan/Projects-Solutions)
+* (https://github.com/practical-tutorials/project-based-learning#python)
