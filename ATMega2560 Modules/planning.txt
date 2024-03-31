@@ -1,6 +1,12 @@
-Functions of ATMega2560
+Internal Functions of ATMega2560
 * ADC
 * EEPROM
 * USART
 * Timers
 * ISP
+
+External (Hardware Options)
+* Stepper Motor
+* Keypad
+* LCD
+* Ping Sensors
