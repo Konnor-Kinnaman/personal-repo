@@ -1,0 +1,6 @@
+Functions of ATMega2560
+* ADC
+* EEPROM
+* USART
+* Timers
+* ISP
