@@ -15,6 +15,10 @@ Print out that many copies of the previous message on separate lines.
 
 name  = input("Enter your name: ")
 age = input("Enter your age: ")
+loop = input("Enter another number: ")
+index = 0
 
 year = (100 - int(age)) + 2024
-print(f'You will turn 100 in the year {year}')
+while index < int(loop):
+    print(f'{name} will turn 100 in the year {year}')
+    index+=1
