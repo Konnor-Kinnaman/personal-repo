@@ -1,4 +1,6 @@
-name = "John Smith"
-age  = 20
-status = 'new'
-print(f'{name} is a {status} patient who is {age} years old')
+FirstNum = input("First: ")
+SecondNum = input("Second: ")
+
+output = float(FirstNum) + float(SecondNum)
+
+print(output)
