@@ -13,7 +13,7 @@ Ask the user for a number and return a list that contains only elements from the
 #Program by Konnor Kinnaman
 
 def main():
-    #insert code here
+    print("blah")
 
 
 
