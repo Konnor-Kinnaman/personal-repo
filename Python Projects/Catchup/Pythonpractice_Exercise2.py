@@ -12,3 +12,40 @@ If check divides evenly into num, tell that to the user. If not, print a differe
 
 #Program by Konnor Kinnaman
 
+def main():
+    while (1):
+        UserNum = input("Enter a number: ")
+
+        if(int(UserNum) == 0):
+            return 1
+        if (int(UserNum) % 2 == 0):
+            print("Even")
+        elif(int(UserNum)%2 != 0):
+            print("Odd")
+
+def ExtraOne():
+    while (1):
+        UserNum = input("Enter a number: ")
+
+        if (int(UserNum)%4 == 0):
+            print("4 Multiple")
+        elif (int(UserNum)%2 == 0):
+            print("Even")
+        else:
+            print("Odd")
+
+def ExtraTwo():
+    while(1):
+        Num = input("Enter a number ")
+        Check = input("Enter a check num ")
+
+        if ((int(Num)%int(Check))==0):
+            print('Success')
+        else:
+            print('Fail')
+        
+
+
+
+ExtraTwo()
+exit(1)
